@@ -43,7 +43,9 @@ jupyter
 You can install these dependencies using pip:
 pip install pandas numpy matplotlib seaborn jupyter
 Project Structure
+
 The project directory is organized as follows:
+
 hotel-booking-analysis/
 │
 ├── data/
@@ -62,6 +64,7 @@ hotel-booking-analysis/
 │
 ├── README.md
 └── requirements.txt
+
 Usage
 Load the Data: Place the dataset in the data/ directory.
 Open the Notebook: Launch Jupyter Notebook and open the hotel_booking_eda.ipynb file from the notebooks/ directory.
